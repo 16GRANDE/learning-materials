@@ -9,6 +9,7 @@
 - [想做前端开发？推荐几个必备珍品组件库 - 掘金](https://juejin.im/post/5d0c3d4ff265da1bab29b5af)
 - [基于 Webpack4 搭建 Vue 开发环境 - 掘金](https://juejin.im/post/5bc30d5fe51d450ea1328877)
 - [前端：你要懂的单页面应用和多页面应用 - 掘金](https://juejin.im/post/5a0ea4ec6fb9a0450407725c)
+- [解密初、中、高级程序员的进化之路（前端） - 掘金](https://juejin.im/post/5d3a6d9e51882570d50f5566)
 
 ## 思否
 - [JavaScript 中那些关于坐标和距离的属性与方法 - 乐亦栗的前端笔记 - SegmentFault 思否](https://segmentfault.com/a/1190000019300575)

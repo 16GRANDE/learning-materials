@@ -43,6 +43,7 @@
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration):CSS Inspiration，在这里找到写 CSS 的灵感！
 - [dongyuanxin/blog](https://github.com/dongyuanxin/blog): 前端面试 | 设计模式手册 | Webpack4教程 | NodeJs实战 | Js版·剑指offer刷题笔记 | ...
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)：Roadmap to becoming a web developer in 2019 
+- [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list)：a frontend tech list for developers
 
 ## 语雀
 - [前端九部 - 入门者手册2019](https://www.yuque.com/fe9/basic)

@@ -11,6 +11,7 @@
 - [前端：你要懂的单页面应用和多页面应用 - 掘金](https://juejin.im/post/5a0ea4ec6fb9a0450407725c)
 - [解密初、中、高级程序员的进化之路（前端） - 掘金](https://juejin.im/post/5d3a6d9e51882570d50f5566)
 - [JavaScript 数据结构与算法之美 - 归并排序、快速排序、希尔排序、堆排序- 掘金](https://juejin.im/post/5d371aa6e51d455d850d3bbe)
+- [8个问题看你是否真的懂 JS- 掘金](https://juejin.im/post/5d2d146bf265da1b9163c5c9)
 
 ## 思否
 - [JavaScript 中那些关于坐标和距离的属性与方法 - 乐亦栗的前端笔记 - SegmentFault 思否](https://segmentfault.com/a/1190000019300575)

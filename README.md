@@ -13,6 +13,7 @@
 - [JavaScript 数据结构与算法之美 - 归并排序、快速排序、希尔排序、堆排序- 掘金](https://juejin.im/post/5d371aa6e51d455d850d3bbe)
 - [8个问题看你是否真的懂 JS- 掘金](https://juejin.im/post/5d2d146bf265da1b9163c5c9)
 - [一次搞懂JavaScript中的this- 掘金](https://juejin.im/post/5d4439806fb9a06b226296b1)
+- [深度剖析：前端路由原理- 掘金](https://juejin.im/post/5d469f1e5188254e1c49ae78)
 
 ## 思否
 - [JavaScript 中那些关于坐标和距离的属性与方法 - 乐亦栗的前端笔记 - SegmentFault 思否](https://segmentfault.com/a/1190000019300575)

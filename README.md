@@ -15,6 +15,7 @@
 - [一次搞懂JavaScript中的this- 掘金](https://juejin.im/post/5d4439806fb9a06b226296b1)
 - [深度剖析：前端路由原理- 掘金](https://juejin.im/post/5d469f1e5188254e1c49ae78)
 - [JS中轻松遍历对象属性的几种方式- 掘金](https://juejin.im/post/5d48c275f265da03b12032a1)
+- [JavaScript: ES2019更新了什么呢？- 掘金](https://juejin.im/post/5d4c3bec5188254bb70164e2)
 
 ## 思否
 - [JavaScript 中那些关于坐标和距离的属性与方法 - 乐亦栗的前端笔记 - SegmentFault 思否](https://segmentfault.com/a/1190000019300575)

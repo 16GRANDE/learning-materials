@@ -22,6 +22,7 @@
 
 ## 思否
 - [JavaScript 中那些关于坐标和距离的属性与方法 - 乐亦栗的前端笔记 - SegmentFault 思否](https://segmentfault.com/a/1190000019300575)
+- [JavaScript 闭包- SegmentFault 思否](https://segmentfault.com/a/1190000006875662)
 
 ## GitHub
 - [huyaocode/webKnowledge](https://github.com/huyaocode/webKnowledge):前端知识点总结

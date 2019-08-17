@@ -19,6 +19,7 @@
 - [精读《前端未来展望》- 掘金](https://juejin.im/post/5d2d207b5188257aa971ee33)
 - [从搜索系统来聊聊防抖和节流- 掘金](https://juejin.im/post/5d29abe3e51d45777b1a3e45)
 - [vue文档里你没捡起来的宝藏- 掘金](https://juejin.im/post/5d4bb71e51882551d172e557)
+- [前端工作学习相关网站收集整理- 掘金](https://juejin.im/post/5d003f51e51d454fbe24a661)
 
 ## 思否
 - [JavaScript 中那些关于坐标和距离的属性与方法 - 乐亦栗的前端笔记 - SegmentFault 思否](https://segmentfault.com/a/1190000019300575)

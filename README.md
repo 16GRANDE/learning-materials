@@ -61,6 +61,9 @@
 - [前端九部 - 入门者手册2019](https://www.yuque.com/fe9/basic)
 - [JavaScript 学习笔记](https://www.yuque.com/destinytaoer/javascript)
 
+## 其它
+- [Chrome 开发者工具中文文档](https://www.html.cn/doc/chrome-devtools/)
+
 ## 书
 - 你不知道的javascript
 - JavaScript DOM 编程技术

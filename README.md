@@ -56,6 +56,7 @@
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list)：a frontend tech list for developers
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)：Learn regex the easy way
 - [xiaomuzhu/front-end-interview](https://github.com/xiaomuzhu/front-end-interview)：A list of interview for front-end developer(前端开发者面试清单)
+- [chenqf/frontEndBlog](https://github.com/chenqf/frontEndBlog)：写博客的地方，总结整理各种WEB前端知识点
 
 ## 语雀
 - [前端九部 - 入门者手册2019](https://www.yuque.com/fe9/basic)

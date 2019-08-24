@@ -64,6 +64,7 @@
 
 ## 其它
 - [Chrome 开发者工具中文文档](https://www.html.cn/doc/chrome-devtools/)
+- [ECMAScript 6 入门-阮一峰](http://es6.ruanyifeng.com/#README)
 
 ## 书
 - 你不知道的javascript

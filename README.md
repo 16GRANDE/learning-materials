@@ -58,6 +58,7 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)：Learn regex the easy way
 - [xiaomuzhu/front-end-interview](https://github.com/xiaomuzhu/front-end-interview)：A list of interview for front-end developer(前端开发者面试清单)
 - [chenqf/frontEndBlog](https://github.com/chenqf/frontEndBlog)：写博客的地方，总结整理各种WEB前端知识点
+- [d2-projects/d2-daily](https://github.com/d2-projects/d2-daily)：D2 日报 https://daily.fairyever.com
 
 ## CDC
 - [前端异常监控解决方案研究](https://cdc.tencent.com/2018/09/13/frontend-exception-monitor-research/)

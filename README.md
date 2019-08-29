@@ -22,6 +22,7 @@
 - [前端工作学习相关网站收集整理- 掘金](https://juejin.im/post/5d003f51e51d454fbe24a661)
 - [关于JS中一些重要的api实现, 巩固你的原生JS功底- 掘金](https://juejin.im/post/5d635566e51d4561e224a360)
 - [灵活运用CSS开发技巧(66个实用技巧，值得收藏)- 掘金](https://juejin.im/post/5d4d0ec651882549594e7293)
+- [JavaScript中的垃圾回收和内存泄漏- 掘金](https://juejin.im/post/5cb33660e51d456e811d2687)
 
 ## 思否
 - [JavaScript 中那些关于坐标和距离的属性与方法 - 乐亦栗的前端笔记 - SegmentFault 思否](https://segmentfault.com/a/1190000019300575)

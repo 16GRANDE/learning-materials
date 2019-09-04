@@ -62,6 +62,7 @@
 - [xiaomuzhu/front-end-interview](https://github.com/xiaomuzhu/front-end-interview)：A list of interview for front-end developer(前端开发者面试清单)
 - [chenqf/frontEndBlog](https://github.com/chenqf/frontEndBlog)：写博客的地方，总结整理各种WEB前端知识点
 - [d2-projects/d2-daily](https://github.com/d2-projects/d2-daily)：D2 日报 https://daily.fairyever.com
+- [webpack-china/awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn)：[印记中文](https://docschina.org/) - webpack 优秀中文文章 https://webpack.docschina.org/
 
 ## CDC
 - [前端异常监控解决方案研究](https://cdc.tencent.com/2018/09/13/frontend-exception-monitor-research/)

@@ -64,6 +64,8 @@
 - [chenqf/frontEndBlog](https://github.com/chenqf/frontEndBlog)：写博客的地方，总结整理各种WEB前端知识点
 - [d2-projects/d2-daily](https://github.com/d2-projects/d2-daily)：D2 日报 https://daily.fairyever.com
 - [webpack-china/awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn)：[印记中文](https://docschina.org/) - webpack 优秀中文文章 https://webpack.docschina.org/
+- [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao)：每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
+
 
 ## CDC
 - [前端异常监控解决方案研究](https://cdc.tencent.com/2018/09/13/frontend-exception-monitor-research/)

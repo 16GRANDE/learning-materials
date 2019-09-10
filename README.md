@@ -76,7 +76,7 @@
 - [JavaScript 学习笔记](https://www.yuque.com/destinytaoer/javascript)
 
 ## CNODE
-- [记录自己毕业两年来所学](https://cnodejs.org/topic/5d6697d3421846662d985894)
+- [记录自己毕业两年来所学-zmecust](https://cnodejs.org/topic/5d6697d3421846662d985894)
 
 ## 简书
 - [京东PLUS会员项目前端性能优化实践](https://www.jianshu.com/p/796153d47235)

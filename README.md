@@ -32,6 +32,7 @@
 - [一种对开发更友好的前端骨架屏自动生成方案- SegmentFault 思否](https://segmentfault.com/a/1190000020309764)
 - [25个JavaScript代码简写技巧(上篇)- SegmentFault 思否](https://segmentfault.com/a/1190000020354772)
 - [25个JavaScript代码简写技巧(下篇)- SegmentFault 思否](https://segmentfault.com/a/1190000020366414)
+- [用 Mongoose 插件记录Node.js API 日志- SegmentFault 思否](https://segmentfault.com/a/1190000020356557)
 
 
 

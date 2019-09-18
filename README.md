@@ -27,6 +27,7 @@
 - [滴滴跨端框架Chameleon 1.0正式发布- 掘金](https://juejin.im/post/5d70e76be51d4561fc620ab6)
 - [Electron构建跨平台应用Mac/Windows/Linux- 掘金](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 - [前端调试指南指北- 掘金](https://juejin.im/post/5d6cdce3e51d4561bb33fba9)
+- [二维码总结- 掘金](https://juejin.im/post/5c7dd5c15188251b6406e7af)
 
 ## 思否
 - [JavaScript 中那些关于坐标和距离的属性与方法 - 乐亦栗的前端笔记 - SegmentFault 思否](https://segmentfault.com/a/1190000019300575)

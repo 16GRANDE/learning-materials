@@ -41,6 +41,7 @@
 - [用 Mongoose 插件记录Node.js API 日志- SegmentFault 思否](https://segmentfault.com/a/1190000020356557)
 - [100行JavaScript代码在React中优雅的实现简单组件keep-Alive- SegmentFault 思否](https://segmentfault.com/a/1190000020534511)
 - [程序员常用工具- SegmentFault 思否](https://segmentfault.com/a/1190000020549054)
+- [webpack常用加载器、插件- SegmentFault 思否](https://segmentfault.com/a/1190000020606837)
 
 
 

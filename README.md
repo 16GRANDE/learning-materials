@@ -82,6 +82,7 @@
 - [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao)：每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
 - [phodal/github](https://github.com/phodal/github)：GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. https://github.phodal.com
 - [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging)：《Node.js 调试指南》
+- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)：GitHub中文排行榜
 
 
 ## CDC

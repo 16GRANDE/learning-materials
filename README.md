@@ -31,6 +31,7 @@
 - [从输入 url 开始能做哪些优化- 掘金](https://juejin.im/post/5ad578ba6fb9a028cc61b89f)
 - [彻底搞懂Vue中keep-alive的魔法- 掘金](https://juejin.im/post/5d8871c851882509630338c4)
 - [Vue3.0 中的数据侦测- 掘金](https://juejin.im/post/5d99be7c6fb9a04e1e7baa34)
+- [Vue 开发必须知道的 36 个技巧- 掘金](https://juejin.im/post/5d9d386fe51d45784d3f8637)
 
 ## 思否
 - [JavaScript 中那些关于坐标和距离的属性与方法 - 乐亦栗的前端笔记 - SegmentFault 思否](https://segmentfault.com/a/1190000019300575)
